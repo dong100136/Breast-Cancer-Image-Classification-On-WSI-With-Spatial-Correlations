@@ -11,6 +11,8 @@ It's significant to provide doctors computer-aided diagnosis (CAD) to ease their
 - easy to achieve
 - less computation cost
 
+![img](imgs/1.png)
+
 ## Citations
 
 this project is the implementation of our work "Breast Cancer Image Classification on WSI with Spatial Correlations",  Please consider citing this project in your publications if it helps your research. The following is a BibTeX reference:
