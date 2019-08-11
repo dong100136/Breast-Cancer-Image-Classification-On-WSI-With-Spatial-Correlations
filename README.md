@@ -1,5 +1,7 @@
 ## Breast Cancer Image Classification On WSI With Spatial Correlations
 
+![img](image.png)
+
 This project aims at providing a more reliable result for WSI using a two step framework based on CNN and LR.
 
 As common cancer, breast cancer kills thousands of women every year.
@@ -10,8 +12,6 @@ It's significant to provide doctors computer-aided diagnosis (CAD) to ease their
 - more fexible
 - easy to achieve
 - less computation cost
-
-![img](image.png)
 
 ## Citations
 
