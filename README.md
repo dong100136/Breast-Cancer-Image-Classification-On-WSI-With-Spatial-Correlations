@@ -11,7 +11,7 @@ It's significant to provide doctors computer-aided diagnosis (CAD) to ease their
 - easy to achieve
 - less computation cost
 
-![img](imgs/1.png)
+![img](image.png)
 
 ## Citations
 
